@@ -1,0 +1,4 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.resources filter=lfs diff=lfs merge=lfs -text
+obj/Debug/net6.0-windows/YuGiOh.Properties.Resources.resources filter=lfs diff=lfs merge=lfs -text
+obj/Debug/net6.0-windows/YuGiOh.dll filter=lfs diff=lfs merge=lfs -text
