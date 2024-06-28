@@ -1,0 +1,311 @@
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\CodeWork\C\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\CodeWork\C\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\CodeWork\C\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\CodeWork\C\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\CodeWork\C\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\CodeWork\C\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\CodeWork\C#\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\CodeWork\C#\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\CodeWork\C#\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\CodeWork\C#\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\CodeWork\C#\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.register.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.exe
+E:\moblie\YuGiOh_14\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.deps.json
+E:\moblie\YuGiOh_14\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+E:\moblie\YuGiOh_14\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.dll
+E:\moblie\YuGiOh_14\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.pdb
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.register.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.dll
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.pdb
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.start.resources
+E:\moblie\YuGiOh_14\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.exe
+E:\moblie\YuGiOh_15\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.deps.json
+E:\moblie\YuGiOh_15\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+E:\moblie\YuGiOh_15\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.dll
+E:\moblie\YuGiOh_15\YuGiOh_14\bin\Debug\net6.0-windows\YuGiOh.pdb
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.register.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.start.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.dll
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.pdb
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+E:\moblie\YuGiOh_15\YuGiOh_14\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+C:\CodeWork\C#\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.start.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Battle_loading.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.register.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.start.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\Users\juokh\OneDrive\바탕 화면\Yugioh_18\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Battle_loading.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.register.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.start.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.AssemblyReference.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.csproj.CopyComplete
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh\obj\Debug\net6.0-windows\YuGiOh.Direct_Attack.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.csproj.AssemblyReference.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Battle_loading.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Direct_Attack.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.register.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.start.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.csproj.CopyComplete
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_old\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.AssemblyReference.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Battle_loading.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Direct_Attack.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.register.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.start.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.CopyComplete
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\Users\bhwan\OneDrive\바탕 화면\YuGiOh_FInal\obj\Debug\net6.0-windows\ref\YuGiOh.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.exe
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.deps.json
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.runtimeconfig.json
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\YuGiOh.pdb
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.AssemblyReference.cache
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.battle.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Battle_loading.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.CardShop.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.DeckSetting.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Direct_Attack.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Game.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Init.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Loading.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Login.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Menu.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.register.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.start.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.Properties.Resources.resources
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.GenerateResource.cache
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfoInputs.cache
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.AssemblyInfo.cs
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.CoreCompileInputs.cache
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.csproj.Up2Date
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\refint\YuGiOh.dll
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.pdb
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\YuGiOh.genruntimeconfig.cache
+C:\CodeWork\C#\유희왕_C#\YuGiOh_FInal\obj\Debug\net6.0-windows\ref\YuGiOh.dll

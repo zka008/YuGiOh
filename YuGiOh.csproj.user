@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form\battle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Battle_loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\CardShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\DeckSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Direct_Attack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Init.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

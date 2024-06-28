@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|c:\\codework\\c#\\\uC720\uD76C\uC655_c#\\yugioh_final\\service\\mysqlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|solutionrelative:service\\mysqlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|c:\\codework\\c#\\\uC720\uD76C\uC655_c#\\yugioh_final\\service\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|solutionrelative:service\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|c:\\codework\\c#\\\uC720\uD76C\uC655_c#\\yugioh_final\\data\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|solutionrelative:data\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|c:\\codework\\c#\\\uC720\uD76C\uC655_c#\\yugioh_final\\data\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|solutionrelative:data\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|c:\\codework\\c#\\\uC720\uD76C\uC655_c#\\yugioh_final\\service\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A28285-E113-4ECD-9752-4AD98D8ECF11}|YuGiOh.csproj|solutionrelative:service\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1097,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySqlHandler.cs",
+              "DocumentMoniker": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Service\\MySqlHandler.cs",
+              "RelativeDocumentMoniker": "Service\\MySqlHandler.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Service\\MySqlHandler.cs",
+              "RelativeToolTip": "Service\\MySqlHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:38:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Service\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Service\\GameLogic.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Service\\GameLogic.cs",
+              "RelativeToolTip": "Service\\GameLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:28:41.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameInfo.cs",
+              "DocumentMoniker": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Data\\GameInfo.cs",
+              "RelativeDocumentMoniker": "Data\\GameInfo.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Data\\GameInfo.cs",
+              "RelativeToolTip": "Data\\GameInfo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:27:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Data\\Player.cs",
+              "RelativeDocumentMoniker": "Data\\Player.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Data\\Player.cs",
+              "RelativeToolTip": "Data\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:26:19.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Service\\Music.cs",
+              "RelativeDocumentMoniker": "Service\\Music.cs",
+              "ToolTip": "C:\\CodeWork\\C#\\\uC720\uD76C\uC655_C#\\YuGiOh_FInal\\Service\\Music.cs",
+              "RelativeToolTip": "Service\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:21:39.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1387,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
